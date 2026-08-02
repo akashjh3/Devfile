@@ -1,0 +1,8 @@
+# ignore dependences
+node_modules
+
+# ignore build output
+dist
+
+# igmore environment variables
+.env
